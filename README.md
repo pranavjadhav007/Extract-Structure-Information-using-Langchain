@@ -30,8 +30,7 @@ myvenv\Scripts\activate
 
 ### 4. Install Dependencies
 
-python -m venv myvenv
-myvenv\Scripts\activate
+pip install -r requirements.txt
 
 ### 5. Create .env file with your API keys
 
